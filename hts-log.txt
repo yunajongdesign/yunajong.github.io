@@ -1,0 +1,28 @@
+HTTrack3.49-2 launched on Mon, 01 Dec 2025 16:17:50 at https://www.yunajong.com
+(httrack https://www.yunajong.com -O ./yunajong-full -r10 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:18:17	Error: 	"Not Found" (404) at link https://www.yunajong.com/t (from https://www.yunajong.com/)
+16:18:17	Error: 	"Not Found" (404) at link https://www.yunajong.com/e (from https://www.yunajong.com/)
+16:34:49	Error: 	"Not Found" (404) at link https://www.yunajong.com/api/ (from https://www.yunajong.com/)
+16:34:49	Error: 	"Not Found" (404) at link https://www.yunajong.com/envelope/ (from https://www.yunajong.com/)
+16:34:49	Error: 	"Not Found" (404) at link https://www.yunajong.com/feed.xml (from https://www.yunajong.com/)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/decodeURIComponent(e (from https://www.yunajong.com/)
+16:34:49	Warning: 	Retry after error -4 (Incorrect length (23954405 Bytes, 32651244 expected)) at link https://www.yunajong.com/_files/ugd/864260_99f65fee39184f44b4852cc154e23794.pdf (from https://www.yunajong.com/visual-strategy-ai-driven-design)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://static.wixstatic.com/media/864260_016ae6f7698a49088e1d3a4814867aa2~mv2.jpg/v1/fill/w_1280,h_720,enc_auto/file.jpeg" (from https://www.yunajong.com/3d-virtual-fitting-design)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://static.wixstatic.com/media/864260_4285aa4ae74141d2ae0b2df5ffa271eb~mv2.jpg/v1/fill/w_1280,h_720,enc_auto/file.jpeg" (from https://www.yunajong.com/3d-virtual-fitting-cms)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://static.wixstatic.com/media/864260_67c0ce95a1c1429a8798fb56705d8022~mv2.jpg/v1/fill/w_1280,h_720,enc_auto/file.jpeg" (from https://www.yunajong.com/firefox-10th-anniversary)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://i.vimeocdn.com/video/621214585-39966ccf90675246ebc781cb44eeeb283e946de779599bd12cb27d9c8385073e-d_1920x1080" (from https://www.yunajong.com/firefox-10th-anniversary)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://i.vimeocdn.com/video/621755209-91a5eb8e32e31233c29e8aaadffee92dc3adef7f49e7a01edeb0c006a9601773-d_1920x1080" (from https://www.yunajong.com/firefox-29)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://static.wixstatic.com/media/864260_dda83405d5804a0488f054fd3ef45e81~mv2.png/v1/fill/w_1280,h_720,enc_auto/file.jpeg" (from https://www.yunajong.com/homspital)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://i.vimeocdn.com/video/494958976-ad7d3ea4f5e60367626e4c9e890ed9f616d544742cce29f4132db30bd20064b6-d_1920x1080" (from https://www.yunajong.com/firefox-anywhere)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://i.vimeocdn.com/video/621208639-1715effa2aede9a8a31c2027fdbe4fbca8fbe2b82031b9f123f475ec31564f66-d_1920x1080" (from https://www.yunajong.com/firefox-anywhere)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://static.wixstatic.com/media/864260_1a8864bedc414d0a945100e0b0516330~mv2.jpg/v1/fill/w_1280,h_720,enc_auto/file.jpeg" (from https://www.yunajong.com/wood-supply-chain-service-design)
+16:34:49	Error: 	"Bad Request" (400) at link https://www.yunajong.com/"https://static.wixstatic.com/media/864260_47fd6be31d4e4d66a43998e5cd4041de~mv2.jpg/v1/fill/w_1280,h_720,enc_auto/file.jpeg" (from https://www.yunajong.com/travel-book)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 5 seconds : 59 links scanned, 41 files written (152581050 bytes overall) [146044859 bytes received at 142482 bytes/sec], 11822664 bytes transferred using HTTP compression in 36 files, ratio 27%
+(16 errors, 1 warnings, 0 messages)
