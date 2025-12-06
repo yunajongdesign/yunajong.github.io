@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.yunajong.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_uw2-pub-1_g
-www.yunajong.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1764573496|m05xxJ1IMK3T
-www.yunajong.com	TRUE	/	FALSE	1999999999	SameSite	None
-
